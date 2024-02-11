@@ -6,4 +6,5 @@
  2. Dowload Oracle on VirtualBox
   ![1](img/Cap1.png)
   ![1](img/Cap2.png)
+3. Iniciate Oracle
   ![1](img/Cap3.png)
