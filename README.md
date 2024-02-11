@@ -1,7 +1,5 @@
 # Database-Installation-Guide
-## Descargarmos Oracle en VirtualBox
-![1](img/Cap1.png)
-![1](img/Cap2.png)
+## [Descargarmos Oracle en VirtualBox](Descargarmos Oracle en VirtualBox.md)
 ## Iniciamos y configuramos oracle 
 ![1](img/Cap3.png)
 ![1](img/Cap4.png)
