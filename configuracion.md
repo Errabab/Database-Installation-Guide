@@ -1,1 +1,1 @@
-## Iniciamos y configuramos oracle 
+## Start and configure Oracle
