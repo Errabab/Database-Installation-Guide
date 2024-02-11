@@ -1,3 +1,3 @@
 # Database-Installation-Guide
-## [Descargarmos Oracle en VirtualBox](Descargarmos.md)
-## [Iniciamos y configuramos oracle](configuracion.md) 
+## [Download Oracle on VirtualBox.](Descargarmos.md)
+## [Start and configure Oracle](configuracion.md) 
