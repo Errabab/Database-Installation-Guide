@@ -23,6 +23,7 @@ downloads.html `
 
 ![1](img/cp4.png)
 
-7. Finally, we only need the IP address of the machine to connect via SSH to the database.
+7. Finally, we only need the IP address of the machine.
 
+The IP is used to connect to the database from other devices with SSH
 `ip a`
