@@ -20,6 +20,7 @@ Use *dnf* for the new version; if you have an old version, you need to use *yum*
 5. Install the Oracle Linux client
 ` wget https://www.oracle.com/es/database/technologies/instant-client/linux-x86-64-
 downloads.html `
+
 ![1](img/cp4.png)
 
 7. Finally, we only need the IP address of the machine to connect via SSH to the database.
