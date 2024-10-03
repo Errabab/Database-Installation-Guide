@@ -29,7 +29,6 @@ The IP is used to connect to the database from other devices with SSH
 `ip a`
 
 ## Referencias
-   * **Chat gpt** 
    * **[Oracle](https://www.oracle.com/es/database/)**
 ## Autores 
   * Errabab Salec Ahriem 
